@@ -60,7 +60,9 @@ Metro Grocers is above 2, and its cash flow rose, so it stays off the watchlist.
 
 ## Demo
 
-[docs/demo.mp4](docs/demo.mp4) is a 33-second walkthrough: open the report, ask which retail companies have debt-to-equity above 2, show the SQL answer, then the exception table and the one-pager. A shorter loop is in [docs/demo.gif](docs/demo.gif).
+[docs/demo.mp4](docs/demo.mp4) is a 30-second recording of this file open in Power BI Desktop. It starts on sector revenue, moves to the retail debt-to-equity page, then opens the validation exceptions. A shorter loop is in [docs/demo.gif](docs/demo.gif).
+
+The retail page is the answer to “which retail companies have debt-to-equity above 2?”: Harbor Mart 2.31, Metro Grocers 2.42, and Northline Stores 2.48.
 
 Open `FinancialCockpit.pbix` in Power BI Desktop for the same five pages:
 
