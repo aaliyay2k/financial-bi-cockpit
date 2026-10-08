@@ -1,0 +1,58 @@
+{
+  "raw_rows": 97,
+  "certified_rows": 93,
+  "exception_rows": 4,
+  "latest_revenue": "4162.86",
+  "sectors": [
+    {
+      "sector": "Technology",
+      "revenue": "1518.15"
+    },
+    {
+      "sector": "Retail",
+      "revenue": "1454.38"
+    },
+    {
+      "sector": "Industrials",
+      "revenue": "641.35"
+    },
+    {
+      "sector": "Healthcare",
+      "revenue": "548.98"
+    }
+  ],
+  "retail_above_2": [
+    {
+      "company": "Northline Stores",
+      "de": "2.4800",
+      "ocf": "22.00",
+      "watchlist": "Yes"
+    },
+    {
+      "company": "Metro Grocers",
+      "de": "2.4200",
+      "ocf": "27.00",
+      "watchlist": "No"
+    },
+    {
+      "company": "Harbor Mart",
+      "de": "2.3100",
+      "ocf": "36.00",
+      "watchlist": "Yes"
+    }
+  ],
+  "watchlist": [
+    "Northline Stores",
+    "Harbor Mart"
+  ],
+  "margin_breaches": [
+    {
+      "company": "Lumen Software",
+      "pp": "-6.50"
+    },
+    {
+      "company": "Ridge Tools",
+      "pp": "-3.80"
+    }
+  ]
+}

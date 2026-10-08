@@ -1,0 +1,5 @@
+check_name,ticker,company_name,sector,quarter_label,detail,blocking
+Duplicate company-quarter,FLD,Field & Co,Retail,2024 Q1,Extra extract row. The earliest row for this company and quarter can still pass the other checks.,Yes
+Operating income within revenue,KMF,Keel Manufacturing,Industrials,2025 Q2,Operating income is greater than revenue,Yes
+Required amounts present,HST,Harbor Steel,Industrials,2025 Q4,Total equity is null,Yes
+Required amounts present,PND,Pine Diagnostics,Healthcare,2025 Q3,Operating cash flow is null,Yes
